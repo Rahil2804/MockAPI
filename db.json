@@ -1,0 +1,41 @@
+{
+    "weekly_challenges": [
+      {
+        "title": "Push-Up Challenge",
+        "description": "Do 20 push-ups every day this week."
+      },
+      {
+        "title": "Squat Challenge",
+        "description": "Perform 30 squats each day this week."
+      },
+      {
+        "title": "Crunch Challenge",
+        "description": "Complete 40 crunches each day for a week."
+      },
+      {
+        "title": "Plank Challenge",
+        "description": "Hold a plank for 1 minute every day for 7 days."
+      },
+      {
+        "title": "Jumping Jack Challenge",
+        "description": "Do 50 jumping jacks every day for the next week."
+      },
+      {
+        "title": "Bicep Curl Challenge",
+        "description": "Complete 15 bicep curls each day this week."
+      },
+      {
+        "title": "Burpee Challenge",
+        "description": "Perform 10 burpees every day for the next 7 days."
+      },
+      {
+        "title": "Mountain Climbers Challenge",
+        "description": "Do 20 mountain climbers every day for a week."
+      },
+      {
+        "title": "Lunges Challenge",
+        "description": "Complete 20 lunges on each leg every day this week."
+      }
+    ]
+  }
+  
